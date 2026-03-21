@@ -8,9 +8,9 @@ Builder focused on practical software that solves real operator and homeowner pr
 DIY pest control companion app with an Expo mobile client and a Node/Express backend.  
 Focus: AI-assisted guidance, pest knowledge base, and affordable treatment workflows.
 
-### [K Squared Inspections Website](https://github.com/ChristFollower873461/k2-inspections)
-Production marketing site for a home inspection business in Florida.  
-Focus: clear service pages, SEO foundations, and deployment-ready static architecture.
+### [aissistedconsulting.com](https://github.com/ChristFollower873461/aissisted-website)
+Public consulting website and marketing presence for AI-assisted small business services.  
+Focus: static performance, clear service positioning, and deployment-ready Cloudflare edge configuration.
 
 ### [Robotics Sandbox / Robot Arm](https://github.com/ChristFollower873461/robotics-sandbox-spec)
 Local-first robotics sandbox demonstrating 2-DOF forward/inverse kinematics, waypoint planning, and obstacle checks.
