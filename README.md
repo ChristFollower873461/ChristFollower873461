@@ -12,9 +12,8 @@ Focus: AI-assisted guidance, pest knowledge base, and affordable treatment workf
 Production marketing site for a home inspection business in Florida.  
 Focus: clear service pages, SEO foundations, and deployment-ready static architecture.
 
-### Robotics Sandbox / Robot Arm (publishing)
-Local-first robotics sandbox demonstrating 2-DOF forward/inverse kinematics, waypoint planning, and obstacle checks.  
-Status: packaged and ready for public push as a showcase repo.
+### [Robotics Sandbox / Robot Arm](https://github.com/ChristFollower873461/robotics-sandbox-spec)
+Local-first robotics sandbox demonstrating 2-DOF forward/inverse kinematics, waypoint planning, and obstacle checks.
 
 ## Current Focus
 
