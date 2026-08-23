@@ -8,9 +8,15 @@ Builder focused on practical software that solves real operator and homeowner pr
 DIY pest control companion app with an Expo mobile client and a Node/Express backend.  
 Focus: AI-assisted guidance, pest knowledge base, and affordable treatment workflows.
 
-### [aissistedconsulting.com](https://github.com/ChristFollower873461/aissisted-website)
-Public consulting website and marketing presence for AI-assisted small business services.  
-Focus: static performance, clear service positioning, and deployment-ready Cloudflare edge configuration.
+### [AIssisted Consulting](https://aissistedconsulting.com)
+Public consulting website for practical AI-assisted small business services.
+
+Focus: clear service positioning, static performance, and a verified Cloudflare deployment. [View source](https://github.com/ChristFollower873461/aissisted-website).
+
+### [Solar Plainly](https://solarunveiled.com)
+Local-first workspace for reviewing a solar deal, preserving a system record, and planning ongoing care.
+
+Focus: homeowner clarity, explicit sourcing, and on-device data. [View source](https://github.com/ChristFollower873461/solar-plainly).
 
 ### [Robotics Sandbox / Robot Arm](https://github.com/ChristFollower873461/robotics-sandbox-spec)
 Local-first robotics sandbox demonstrating 2-DOF forward/inverse kinematics, waypoint planning, and obstacle checks.
@@ -24,9 +30,10 @@ Local-first robotics sandbox demonstrating 2-DOF forward/inverse kinematics, way
 ## Core Stack
 
 - TypeScript / JavaScript
-- React Native + Expo
+- React + React Native / Expo
 - Node.js + Express
-- Static web architecture (HTML/CSS)
+- Python and Rust
+- Cloudflare + GitHub Actions
 
 ## Contact
 
