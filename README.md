@@ -2,11 +2,17 @@
 
 Builder focused on practical software that solves real operator and homeowner problems.
 
-## Featured Repositories
+## Featured Public Repositories
 
-### [PestFriend](https://github.com/ChristFollower873461/pestfriend)
-DIY pest control companion app with an Expo mobile client and a Node/Express backend.  
-Focus: AI-assisted guidance, pest knowledge base, and affordable treatment workflows.
+### [Sleeper Draft Command Center](https://github.com/ChristFollower873461/sleeper-draft-command-center)
+Chrome extension for personal rankings, read-only live draft context, and manual offline draft rooms.
+
+Focus: explicit state transitions, roster-aware recommendations, and reproducible Node/Python checks. See the repository's beta status and installation guide.
+
+### [CodexVault](https://github.com/ChristFollower873461/codexvault)
+Local desktop credential vault built with Rust, Tauri, React, and TypeScript, with a synthetic browser walkthrough.
+
+Focus: encrypted file storage, explicit reveal and export controls, and a documented threat boundary. The repository distinguishes source builds from signed and notarized releases.
 
 ### [AIssisted Consulting](https://aissistedconsulting.com)
 Public consulting website for practical AI-assisted small business services.
