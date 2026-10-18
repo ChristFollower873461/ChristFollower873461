@@ -1,6 +1,8 @@
-# ChristFollower873461
+# AIssisted Consulting
 
-Builder focused on practical software that solves real operator and homeowner problems.
+Practical AI and software for small businesses, alongside independent tools for operators and homeowners.
+
+[Visit AIssisted Consulting](https://aissistedconsulting.com) · [Website source](https://github.com/ChristFollower873461/aissisted-website)
 
 ## Featured Public Repositories
 
@@ -14,18 +16,19 @@ Local desktop credential vault built with Rust, Tauri, React, and TypeScript, wi
 
 Focus: encrypted file storage, explicit reveal and export controls, and a documented threat boundary. The repository distinguishes source builds from signed and notarized releases.
 
-### [AIssisted Consulting](https://aissistedconsulting.com)
-Public consulting website for practical AI-assisted small business services.
-
-Focus: clear service positioning, static performance, and a verified Cloudflare deployment. [View source](https://github.com/ChristFollower873461/aissisted-website).
-
-### [Solar Plainly](https://solarunveiled.com)
+### [Solar Plainly](https://github.com/ChristFollower873461/solar-plainly)
 Local-first workspace for reviewing a solar deal, preserving a system record, and planning ongoing care.
 
-Focus: homeowner clarity, explicit sourcing, and on-device data. [View source](https://github.com/ChristFollower873461/solar-plainly).
+Focus: homeowner clarity, explicit sourcing, and on-device data. See the repository for local setup, checks, and current project status.
 
-### [Robotics Sandbox / Robot Arm](https://github.com/ChristFollower873461/robotics-sandbox-spec)
-Local-first robotics sandbox demonstrating 2-DOF forward/inverse kinematics, waypoint planning, and obstacle checks.
+### [Robotics Sandbox / Robot Field Guide](https://github.com/ChristFollower873461/robotics-sandbox-spec)
+Browser-based robot decision workbench with a sourced catalog, local room and task inputs, and a normalized planar teaching simulator.
+
+Focus: inspectable calculations, evidence and unknowns. Screening results and visual demonstrations do not establish hardware or safety validation.
+
+## Evaluating the Work
+
+Start with each repository's README for its scope and setup instructions, then inspect its checks, limitations, and release notes. Source availability, passing CI, a hosted preview, and a signed release are different milestones.
 
 ## Current Focus
 

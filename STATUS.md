@@ -1,8 +1,8 @@
 # Repository Status
 
 - Status: Profile README repo
-- Last reviewed: 2026-08-23
-- Notes: Special GitHub profile repository with verified project and live-site links.
+- Last reviewed: 2026-10-18
+- Notes: Special GitHub profile repository. Featured public source links and descriptions were reviewed; deployment and release status are documented by each project.
 
 ## Cleanup Guidance
 
